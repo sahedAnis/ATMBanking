@@ -83,6 +83,7 @@ int main(){
     time(&now);
     printf("\n");
     printf("\t\t\t\t\t               %s\n", ctime(&now));
+    printf("\t\t\t\t\t\t          SAHED Anis - V1 ®\n");
     printf("\t\t\t\t\t\t=============== WELCOME ===============\n\n");
 
     printf("\t\tPlease enter your pin :");
