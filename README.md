@@ -1,2 +1,3 @@
-# ATMBanking
-Simple ATM banking system coded in C language
+# ⚙️ ATM banking system
+
+Very simple ATM banking system coded in C. 
